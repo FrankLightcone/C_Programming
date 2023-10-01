@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-008 控制台屏幕显示驱动 C4", "C-008 控制台屏幕显示驱动 C4\C-008 控制台屏幕显示驱动 C4.vcxproj", "{99810046-C436-4C37-B97F-69FC0DBDBDBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99810046-C436-4C37-B97F-69FC0DBDBDBC}.Debug|x64.ActiveCfg = Debug|x64
+		{99810046-C436-4C37-B97F-69FC0DBDBDBC}.Debug|x64.Build.0 = Debug|x64
+		{99810046-C436-4C37-B97F-69FC0DBDBDBC}.Debug|x86.ActiveCfg = Debug|Win32
+		{99810046-C436-4C37-B97F-69FC0DBDBDBC}.Debug|x86.Build.0 = Debug|Win32
+		{99810046-C436-4C37-B97F-69FC0DBDBDBC}.Release|x64.ActiveCfg = Release|x64
+		{99810046-C436-4C37-B97F-69FC0DBDBDBC}.Release|x64.Build.0 = Release|x64
+		{99810046-C436-4C37-B97F-69FC0DBDBDBC}.Release|x86.ActiveCfg = Release|Win32
+		{99810046-C436-4C37-B97F-69FC0DBDBDBC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F0A3224-41CD-4935-AEDE-94E3A9B32127}
+	EndGlobalSection
+EndGlobal
